@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: '南江',
+    subtitle: '无多少价值的杂记',
+    description: '关于自我、生活的记录与思考',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -72,28 +72,28 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+//        {
+//            text: 'Terms',
+//            href: '/terms'
+//        },
+//        {
+//            text: 'Download theme',
+//            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+//        }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+//        {
+//           text: 'Dribbble',
+//            href: 'https://dribbble.com/'
+//        },
+//        {
+//            text: 'Instagram',
+//            href: 'https://instagram.com/'
+//        },
+//        {
+//            text: 'X/Twitter',
+//            href: 'https://twitter.com/'
+//        }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
