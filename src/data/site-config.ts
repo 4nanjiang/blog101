@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: '南江',
-    subtitle: '无多少价值的杂记',
+    subtitle: '不企图留下多少价值的个人杂记',
     description: '关于自我、生活的记录与思考',
     image: {
         src: '/dante-preview.jpg',
@@ -96,8 +96,8 @@ const siteConfig: SiteConfig = {
 //        }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: '我尝试着，在这里讲述自己的经历与感受。',
+        text: "我叫 **南江**。我无知，没有什么知识拿来讲述；我漫无目的，没有什么故事值得说道。 对于写博客，我没有材料的累积，我想，我只能研究研究自己。大多数时候，我活的太过自我，只有某些时刻会想象我死后的世界。假如我死后，人生如一部电影一样重映，我会给电影取什么名字，我将如何用一句话介绍她？",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
