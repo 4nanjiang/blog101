@@ -4,6 +4,8 @@ excerpt: 我关于写博客的一些遐思
 publishDate: 'oct 25 2024'
 tags:
   - 博客
+seo:
+
 ---
 
 这是本博客的开篇，可不是我第一次写博文。
