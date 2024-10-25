@@ -3,7 +3,9 @@ title: 第一篇博文
 excerpt: 我关于写博客的一些遐思
 publishDate: '2024-10-25'
 tags:
-  - '博客'
+  - blog
+  - Web
+  - Web development
 seo:
   image:
     src: '/post-1.jpg'
