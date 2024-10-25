@@ -4,10 +4,7 @@ excerpt: 我关于写博客的一些遐思
 publishDate: '2024-10-25'
 tags:
   - blog
-seo:
-  image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
+
 
 ---
 
