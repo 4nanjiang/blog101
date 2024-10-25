@@ -1,9 +1,13 @@
 ---
 title: 第一篇博文
 excerpt: 我关于写博客的一些遐思
-publishDate: 'oct 25 2024'
+publishDate: 'Aug 5 2023'
 tags:
-  - 博客
+  - Guide
+seo:
+  image:
+    src: '/post-1.jpg'
+    alt: A person standing at the window
 
 ---
 
