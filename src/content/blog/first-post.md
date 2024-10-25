@@ -1,7 +1,7 @@
 ---
 title: 第一篇博文
 excerpt: 我关于写博客的一些遐思
-publishDate: '2024-1110-25'
+publishDate: '2024-10-25'
 tags:
   - Guide
 seo:
